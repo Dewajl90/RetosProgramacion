@@ -1,0 +1,7 @@
+C:\Users\Family\source\repos\Reto 0 EL FAMOSO FIZZ BUZZ\Reto 0 EL FAMOSO FIZZ BUZZ\bin\Debug\Reto 0 EL FAMOSO FIZZ BUZZ.exe.config
+C:\Users\Family\source\repos\Reto 0 EL FAMOSO FIZZ BUZZ\Reto 0 EL FAMOSO FIZZ BUZZ\bin\Debug\Reto 0 EL FAMOSO FIZZ BUZZ.exe
+C:\Users\Family\source\repos\Reto 0 EL FAMOSO FIZZ BUZZ\Reto 0 EL FAMOSO FIZZ BUZZ\bin\Debug\Reto 0 EL FAMOSO FIZZ BUZZ.pdb
+C:\Users\Family\source\repos\Reto 0 EL FAMOSO FIZZ BUZZ\Reto 0 EL FAMOSO FIZZ BUZZ\obj\Debug\Reto 0 EL FAMOSO FIZZ BUZZ.csproj.AssemblyReference.cache
+C:\Users\Family\source\repos\Reto 0 EL FAMOSO FIZZ BUZZ\Reto 0 EL FAMOSO FIZZ BUZZ\obj\Debug\Reto 0 EL FAMOSO FIZZ BUZZ.csproj.CoreCompileInputs.cache
+C:\Users\Family\source\repos\Reto 0 EL FAMOSO FIZZ BUZZ\Reto 0 EL FAMOSO FIZZ BUZZ\obj\Debug\Reto 0 EL FAMOSO FIZZ BUZZ.exe
+C:\Users\Family\source\repos\Reto 0 EL FAMOSO FIZZ BUZZ\Reto 0 EL FAMOSO FIZZ BUZZ\obj\Debug\Reto 0 EL FAMOSO FIZZ BUZZ.pdb
