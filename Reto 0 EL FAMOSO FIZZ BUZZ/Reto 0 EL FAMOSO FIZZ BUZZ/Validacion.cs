@@ -39,6 +39,6 @@ namespace Reto_0_EL_FAMOSO_FIZZ_BUZZ
             {
                 return "";
             }
-        }
+        }//Determina si es multiplo y retorna la palabra
     }
 }
