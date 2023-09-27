@@ -1,0 +1,7 @@
+C:\Users\Family\source\repos\Reto 2 EL PARTIDO DE TENIS\Reto 2 EL PARTIDO DE TENIS\bin\Debug\Reto 2 EL PARTIDO DE TENIS.exe.config
+C:\Users\Family\source\repos\Reto 2 EL PARTIDO DE TENIS\Reto 2 EL PARTIDO DE TENIS\bin\Debug\Reto 2 EL PARTIDO DE TENIS.exe
+C:\Users\Family\source\repos\Reto 2 EL PARTIDO DE TENIS\Reto 2 EL PARTIDO DE TENIS\bin\Debug\Reto 2 EL PARTIDO DE TENIS.pdb
+C:\Users\Family\source\repos\Reto 2 EL PARTIDO DE TENIS\Reto 2 EL PARTIDO DE TENIS\obj\Debug\Reto 2 EL PARTIDO DE TENIS.csproj.AssemblyReference.cache
+C:\Users\Family\source\repos\Reto 2 EL PARTIDO DE TENIS\Reto 2 EL PARTIDO DE TENIS\obj\Debug\Reto 2 EL PARTIDO DE TENIS.csproj.CoreCompileInputs.cache
+C:\Users\Family\source\repos\Reto 2 EL PARTIDO DE TENIS\Reto 2 EL PARTIDO DE TENIS\obj\Debug\Reto 2 EL PARTIDO DE TENIS.exe
+C:\Users\Family\source\repos\Reto 2 EL PARTIDO DE TENIS\Reto 2 EL PARTIDO DE TENIS\obj\Debug\Reto 2 EL PARTIDO DE TENIS.pdb
