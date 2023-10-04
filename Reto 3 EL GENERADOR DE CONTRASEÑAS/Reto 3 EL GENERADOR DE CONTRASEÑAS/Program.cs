@@ -15,10 +15,11 @@ namespace Reto_3_EL_GENERADOR_DE_CONTRASEÑAS
     {
         static void Main(string[] args)
         {
-            GeneradorContraseña generarC = new GeneradorContraseña();
-            generarC.MostrarContraseña(); 
-            GeneradorContraseña generarC2 = new GeneradorContraseña();
-            generarC2.MostrarContraseña();
+            GeneradorContraseña contraseñaNuenva = new GeneradorContraseña();
+            contraseñaNuenva.MostrarContraseña();
+            
         }
     }
 }
+
+
