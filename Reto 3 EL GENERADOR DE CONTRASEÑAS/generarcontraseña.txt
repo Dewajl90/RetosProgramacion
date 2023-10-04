@@ -78,7 +78,7 @@ namespace Reto_3_EL_GENERADOR_DE_CONTRASEÑAS
             int num = random.Next(rangoMin, rangoMax);
             return  (char)num;
             
-        }//genera  numero aleatori a partir de un rango y retorna la letra 
+        }//genera  numero aleatorio a partir de un rango y retorna la letra 
         private int Validar(int size)
         { 
              if (size == this.Lenght)
