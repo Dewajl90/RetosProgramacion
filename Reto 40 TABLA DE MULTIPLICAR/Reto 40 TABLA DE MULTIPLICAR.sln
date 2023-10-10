@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto 40 TABLA DE MULTIPLICAR", "Reto 40 TABLA DE MULTIPLICAR\Reto 40 TABLA DE MULTIPLICAR.csproj", "{D937D727-03BA-4FAA-B85F-317E625DDC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D937D727-03BA-4FAA-B85F-317E625DDC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D937D727-03BA-4FAA-B85F-317E625DDC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D937D727-03BA-4FAA-B85F-317E625DDC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D937D727-03BA-4FAA-B85F-317E625DDC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA1C47B-7A2F-4A30-8FDE-F9180C41C15A}
+	EndGlobalSection
+EndGlobal

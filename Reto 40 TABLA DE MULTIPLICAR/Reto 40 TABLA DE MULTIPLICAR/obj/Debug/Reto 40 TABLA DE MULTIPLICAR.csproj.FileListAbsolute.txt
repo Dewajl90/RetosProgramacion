@@ -1,0 +1,7 @@
+C:\Users\Family\source\repos\Reto 40 TABLA DE MULTIPLICAR\Reto 40 TABLA DE MULTIPLICAR\bin\Debug\Reto 40 TABLA DE MULTIPLICAR.exe.config
+C:\Users\Family\source\repos\Reto 40 TABLA DE MULTIPLICAR\Reto 40 TABLA DE MULTIPLICAR\bin\Debug\Reto 40 TABLA DE MULTIPLICAR.exe
+C:\Users\Family\source\repos\Reto 40 TABLA DE MULTIPLICAR\Reto 40 TABLA DE MULTIPLICAR\bin\Debug\Reto 40 TABLA DE MULTIPLICAR.pdb
+C:\Users\Family\source\repos\Reto 40 TABLA DE MULTIPLICAR\Reto 40 TABLA DE MULTIPLICAR\obj\Debug\Reto 40 TABLA DE MULTIPLICAR.csproj.AssemblyReference.cache
+C:\Users\Family\source\repos\Reto 40 TABLA DE MULTIPLICAR\Reto 40 TABLA DE MULTIPLICAR\obj\Debug\Reto 40 TABLA DE MULTIPLICAR.csproj.CoreCompileInputs.cache
+C:\Users\Family\source\repos\Reto 40 TABLA DE MULTIPLICAR\Reto 40 TABLA DE MULTIPLICAR\obj\Debug\Reto 40 TABLA DE MULTIPLICAR.exe
+C:\Users\Family\source\repos\Reto 40 TABLA DE MULTIPLICAR\Reto 40 TABLA DE MULTIPLICAR\obj\Debug\Reto 40 TABLA DE MULTIPLICAR.pdb
